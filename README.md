@@ -1,7 +1,7 @@
 
 <div align="center">
 
-### 🔨 Tech Stack 🔨
+  ### 🔨 Tech Stack 🔨
   
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white" />
@@ -10,10 +10,15 @@
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white" />
 
 <br>
+<br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanbi428&show_icons=true&theme=vue)
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksql428)](https://solved.ac/{handle})
+  
+ <br>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanbi428&show_icons=true&theme=vue)
+
   </div>
 
 
